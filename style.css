@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+    
+    
+}
+h1{
+    height: 100px;
+    text-align: center;
+   padding-top: 20px;
+    color:#ADEFD1FF;
+    background-color: #00203FFF;
+}
+button{
+    border-radius: 10%;
+    border-color: white;
+    border-width: 5px;
+    background-color:rgb(106, 26, 30);
+}
+
+
+ul{
+ text-align: center;  
+}
+table{
+    border: 5px;
+}
+table,tr,td{
+    border: 3px solid black;
+    font-weight: 700;
+}
+/* table,tr,td{
+
+} */
+a{
+    text-decoration: none;
+    font-size:larger;
+    font-weight: 900;
+}
