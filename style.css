@@ -24,7 +24,7 @@ ul{
 }
 table{
     border: 7px;
-    width: 100%;
+    width: 15%;
 }
 table,tr,td{
     border: 3px solid black;
@@ -58,9 +58,8 @@ a{
             }
 
             table {
-               
-                text-align: center;
-                align-items: center;
+               width: 100%;
+                
             }
 
 
