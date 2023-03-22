@@ -51,14 +51,18 @@ a{
         }
 
         @media screen and (max-width:600px) {
+            body{
+                width: 50%;
+            }
             ul {
                 text-align: center;
             }
 
             table {
-                width: 80%;
+                width: 100%;
                 margin: 5px;
                 text-align: center;
+                align-items: center;
             }
 
 
